@@ -1,0 +1,15 @@
+{
+    "name": "iv/tree",
+    "autoload": {
+        "psr-4": {
+            "Tree\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Volodymyr Ilinskyi",
+            "email": "creavit@i.ua"
+        }
+    ],
+    "require": {}
+}

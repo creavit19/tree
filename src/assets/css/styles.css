@@ -1,0 +1,59 @@
+html {
+  font-size: 15px;
+}
+
+div {
+  margin: 0;
+  padding: 0;
+}
+
+.entities {
+  text-align: center;
+}
+
+.entity {
+  color:#383838;
+  background-color:#42e5d6;
+  width: calc( 100% - 20px );
+  height: 20px;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.block {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.leaf {
+  width: 100px;
+}
+
+.level1 {
+  background-color: #F774C9;
+}
+
+.level2 {
+  background-color: #A0F7BB;
+}
+
+.level3 {
+  background-color: #F7E7A0;
+}
+
+.level4 {
+  background-color: #9391F7;
+}
+
+.level5 {
+  background-color: #B8F796;
+}
+
+.level6 {
+  background-color: #BF91F7;
+}
+
+.level7 {
+  background-color: #F79BD1;
+}
